@@ -1,3 +1,7 @@
 [object Object] [undefined]: undefined 
 [object Object] 
 {"level":"info","message":"All is going well, don't need to worry"}
+undefined [undefined] info: All is going well, don't need to worry
+2025-07-18 10:37:54 [undefined] info: All is going well, don't need to worry
+2025-07-18 10:43:23 [file logs] info: All is going well, don't need to worry
+2025-07-18 22:39:39 [file logs] info: All is going well, don't need to worry
